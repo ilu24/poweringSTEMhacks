@@ -5,7 +5,7 @@ ASL translation powered by AI.
 
 Only 1%, or 500,000 people in the US can understand ASL. However, there is only 1 interpreter per 50 ASL users, which creates communication difficulties for the affected community.
 
-Compared to the hearing, only 53.3% of the deaf are employed, compared to 75.8% for the hearing. We wanted to help ASL users break down employment barriers and other challenges they may face by providing direct and live translation.
+Only 53.3% of the deaf are employed, compared to 75.8% for the hearing. We wanted to help ASL users break down employment barriers and other challenges they may face by providing direct and live translation.
 
 ## What it does
 
