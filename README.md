@@ -3,6 +3,8 @@ ASL translation powered by AI. https://aisl.chashakuu.repl.co/
 
 ## Inspiration
 
+About 11.5 million of the US has some sort of hearing impairment. We wanted to develop a solution to the issues these people may face.
+
 Only 1%, or 500,000 people in the US can understand ASL. However, there is only 1 interpreter per 50 ASL users, which creates communication difficulties for the affected community.
 
 Only 53.3% of the deaf are employed, compared to 75.8% for the hearing. We wanted to help ASL users break down employment barriers and other challenges they may face by providing direct and live translation.
