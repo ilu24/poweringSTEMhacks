@@ -1,5 +1,5 @@
 # AiSL
-ASL translation powered by AI.
+ASL translation powered by AI. https://aisl.chashakuu.repl.co/
 
 ## Inspiration
 
