@@ -20,6 +20,7 @@ Some predictions were inaccurate and had very low confidence– the model tended
 
 ## Accomplishments that we're proud of
 We achieved around 90% confidence on some predictions and were able to finish the project on time!
+
 ![ASL sign for “u”](https://i.imgur.com/ofTtiSc.png)
 
 ## What we learned
